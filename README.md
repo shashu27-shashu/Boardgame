@@ -53,4 +53,4 @@ This web application displays lists of board games and their reviews. While anyo
 5. You can also sign-up as a new user and customize your role to play with the application! 😊
 
 
-Trying with github webhook trigger in M2 batch.
+Trying with github webhook trigger in M10 batch.
